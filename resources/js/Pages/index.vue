@@ -27,7 +27,7 @@
                                     <div class="flex items-center">
                                     
                                         <div >
-                                            <div class="text-sm font-medium text-gray-900">{{contact.id}} </div>
+                                            <div class="text-sm font-medium text-gray-900">#</div>
                                             
                                         </div>
                                     </div>
